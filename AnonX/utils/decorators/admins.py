@@ -93,7 +93,7 @@ def AdminActual(mystic):
                     [
                         InlineKeyboardButton(
                             text="ʜᴏᴡ ᴛᴏ ғɪx ᴛʜɪs ?",
-                            callback_data="SnowyAdmin",
+                            callback_data="WTF_FCC",
                         ),
                     ]
                 ]
